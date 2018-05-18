@@ -1,0 +1,13 @@
+{
+  "name": "alexvcasillas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
