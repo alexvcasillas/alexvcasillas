@@ -39,6 +39,11 @@ module.exports = {
           ['/cratebox', 'Cratebox Core'],
           ['/cratebox-react', 'Cratebox React']
         ]
+      },
+      {
+        title: 'Javascript',
+        collapsable: false,
+        children: [['/array-methods', 'Array methods']]
       }
     ]
   }
