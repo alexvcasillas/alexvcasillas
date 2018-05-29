@@ -137,7 +137,7 @@ Let's explaing what's going on there. First of all we did a small refactor on th
 new Promise(function(resolve, reject) {});
 ```
 
-This `promise` object represents the eventual resolution or failure of an asynchronous code and it's resulting value.
+This `promise` object represents the eventual resolution or failure of an asynchronous code and its resulting value.
 
 When instantiating a `new promise`, it takes a function that will be on charge of resolving (success) or rejecting (failure) the asynchronous code within it. That function have two parameters and those two are functions. The first one is in charge of _resolving_ the `promise` and the second one is in charge of _rejecting_ the `promise`.
 
