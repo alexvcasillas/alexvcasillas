@@ -43,7 +43,10 @@ module.exports = {
       {
         title: 'Javascript',
         collapsable: false,
-        children: [['/array-methods', 'Array methods']]
+        children: [
+          ['/array-methods', 'Array methods'],
+          ['/promises', 'Promises']
+        ]
       }
     ]
   }
