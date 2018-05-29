@@ -6,7 +6,7 @@ sidebarDepth: 2
 
 # Promises
 
-Because of the asyncrhonous nature of JavaScript, you can't expect a structured flow of your app business logic like in a structured programing language where the code logic flows from the top to the bottom. In JavaScript, code will be executed asyncrhonously, meaning that, a function that you define bellow other function, could return its value before the first one. But, how do you control this asynchronous flow? You make use of the `callbacks`. What is a `callback`? You might be asking yourself. Well, a `callback` it's a functional parameter of a function. What I mean with a functional parameter of a function is simply a function that takes a function as an argument.
+Because of the asynchronous nature of JavaScript, you can't expect a structured flow of your app business logic like in a structured programing language where the code logic flows from the top to the bottom. In JavaScript, code will be executed asynchronously, meaning that, a function that you define bellow other function, could return its value before the first one. But, how do you control this asynchronous flow? You make use of the `callbacks`. What is a `callback`? You might be asking yourself. Well, a `callback` it's a functional parameter of a function. What I mean with a functional parameter of a function is simply a function that takes a function as an argument.
 
 ## Using callbacks
 
