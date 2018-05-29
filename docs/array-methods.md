@@ -127,12 +127,12 @@ We have a list of prices, and we would like to take those prices and make some d
 const prices = [100, 450, 320, 1200, 680, 1110, 80, 220];
 const total = prices
   .filter(price => price >= 300)
-  .map(price => price * 0.2)
+  .map(price => price + price * 0.2)
   .reduce((previous, current) => previous + current, 0);
 
 console.log('TOTAL: ', total);
 
 // Output
 
-// TOTAL: 752
+// TOTAL: 4512
 ```
