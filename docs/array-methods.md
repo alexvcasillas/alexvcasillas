@@ -134,5 +134,5 @@ console.log('TOTAL: ', total);
 
 // Output
 
-// TOTAL: 4512
+// TOTAL: 3008
 ```
