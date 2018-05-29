@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Alex Casillas',
   description: 'Frontend Software Developer',
+  ga: 'UA-78795842-4',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
