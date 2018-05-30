@@ -1,16 +1,16 @@
 {
   "name": "alexvcasillas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Alex Casillas Website",
   "main": "index.js",
   "scripts": {
     "docs:build": "vuepress build docs",
     "dev": "vuepress dev docs"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Alex Casillas <alexvcasillas@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "vuepress": "^0.8.4"
+    "vuepress": "^0.10.0"
   }
 }
