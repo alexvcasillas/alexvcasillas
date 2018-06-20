@@ -2,7 +2,7 @@
 home: true
 title: Alex Casillas
 description: Frontend Software Developer
-heroImage: https://pbs.twimg.com/profile_images/854033110933151744/Sp00dPTF_400x400.jpg
+heroImage: https://pbs.twimg.com/profile_images/1005577037774508033/d9YRBGQf_400x400.jpg
 meta:
   - name: keywords
   - content: alexvcasillas, alex, casillas, frontend, development, software, engineer, genially, vector itc, cratebox, react, vuejs, angular, open source, github, styled-components, redux, mobx, mobx state tree, mobx-state-tree, graphql, typescript
