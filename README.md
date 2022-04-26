@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Alex
 
 <center>
+
 ![Alex Casillas' Profile Picture](https://github.com/alexvcasillas/alexvcasillas/blob/main/assets/rounded-profile-pic.png)
+
 </center>
 
 <br />
