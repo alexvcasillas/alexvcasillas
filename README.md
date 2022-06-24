@@ -6,7 +6,7 @@
 
 <br />
 
-Software Engineer Based in Spain 🇪🇸, highly motivated, self-taught technology developer who's being playing around with computers since his early days.
+Software Engineer Based in Spain 🇪🇸, highly motivated, self-taught technology developer who's being playing around with computers since my early days.
 
 Here's some social media links that you might be interested in taking a look at!
 
