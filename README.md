@@ -18,7 +18,7 @@ I have two cats 😸😸, a blue russian called Ruso (13 years old) and a Roman 
 
 ## Published Books
 
-[The JavaScript Cooking Book](https://alexcasillas.gumroad.com/l/javascript-cooking-book)
+### [The JavaScript Cooking Book](https://javascriptcookingbook.com)
 
 This book is designed to help you acquire the essential skills and knowledge you need to jumpstart your career as a JavaScript developer. Whether you are a complete beginner or have some experience with coding, this book will take you on a journey through the basics of JavaScript and its key features.
 
