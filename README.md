@@ -27,4 +27,4 @@ In this book, you will learn everything you need to know about JavaScript, inclu
 
 By the end of this book, you will have a solid foundation in JavaScript programming, and you will be ready to tackle more advanced topics and projects. Whether you are interested in freelancing, working for a company, or pursuing a career in web development, this book will provide you with the skills and confidence you need to succeed. So, get ready to learn, code, and launch your JavaScript career!
 
-[Get the Digital version](https://alexcasillas.gumroad.com/l/javascript-cooking-book) | Get the Print version (coming soon!)
+[Get the Digital version](https://alexcasillas.gumroad.com/l/javascript-cooking-book) | [Get the Print version](https://www.amazon.com/Alex-Casillas/dp/B0BW2GGHHT)
