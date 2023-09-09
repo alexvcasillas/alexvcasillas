@@ -8,7 +8,7 @@
 
 Software Engineer Based in Spain 🇪🇸, highly motivated, self-taught technology developer who's being playing around with computers since my early days.
 
-Here's some social media links that you might be interested in taking a look at!
+Here are some social media links that you might be interested in taking a look at!
 
 - Twitter → [@alexvcasillas](https://twitter.com/alexvcasillas)
 - LinkedIn → [Alex Casillas](https://linkedin.com/in/alexvcasillas)
@@ -16,7 +16,28 @@ Here's some social media links that you might be interested in taking a look at!
 - The JavaScript Cooking Book → [www.javascriptcookingbook.com](https://www.javascriptcookingbook.com)
 - Cratebox → [https://cratebox.io](https://cratebox.io)
 
-I have two cats 😸😸, a blue russian called Ruso (13 years old) and a Roman called Ñuño (12 years old) and they're the most friendly and lovely cats you could possibly ever met!
+I have two cats 😸😸, a blue Russian called Ruso (13 years old) and a Roman called Ñuño (12 years old) and they're the most friendly and lovely cats you could possibly ever met!
+
+## Published Courses
+
+### [Newline Guide to Building a React App with MobX State Tree](https://www.newline.co/courses/newline-guide-to-building-a-react-app-with-mobx-state-tree)
+
+![image](https://github.com/alexvcasillas/alexvcasillas/assets/9496960/585f9ebb-b358-4f35-830d-6e8b3ef2cf0b)
+
+In this course, we will create a complete React Application with the state management handled by MobX State Tree, a state container system that is built on MobX, a functional reactive state library.
+
+MobX State Tree will give your application a solid structure and foundation for large-scale applications and for small applications that are expected to scale rapidly. In comparison to Redux, MobX State Tree outstands it in performance with much less boilerplate. MobX is one of the most popular Redux alternatives and it's used by companies all over the world, including Netflix, Grow, IBM, DAZN, Baidu, and more.
+
+During this course, you'll learn:
+
+- Types in MobX State Tree.
+- How to create the architecture of a centralized store.
+- How to mutate the state via actions that could be asynchronous or not, depending on if we need to perform network requests to persist data into a database via GraphQL.
+- Understanding snapshots and how we can benefit from them to time-travel if a network request fails.
+- Understanding how MobX State Tree makes use of observable properties and observers.
+- Leveraging re-renders in your React Application to MobX observers for better performance optimizations.
+
+By the end of this course, you will have the knowledge and skills that it takes to build a real-world, production-level React Application with a State Management with top-notch performance that can scale with ease.
 
 ## Published Books
 
