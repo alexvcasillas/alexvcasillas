@@ -6,7 +6,7 @@
 
 <br />
 
-Software Engineer Based in Spain 🇪🇸, highly motivated, self-taught technology developer who's being playing around with computers since my early days.
+Senior Software Engineer Based in Spain 🇪🇸, working at Toptal, highly motivated, self-taught technology developer who's been playing around with computers since my early days.
 
 Here are some social media links that you might be interested in taking a look at!
 
@@ -15,8 +15,20 @@ Here are some social media links that you might be interested in taking a look a
 - Personal website → [www.alexvcasillas.com](https://www.alexvcasillas.com)
 - The JavaScript Cooking Book → [www.javascriptcookingbook.com](https://www.javascriptcookingbook.com)
 - Cratebox → [https://cratebox.io](https://cratebox.io)
+- Bookwriters → [https://boookwriters.app](https://bookwriters.app)
+- Worklynks → [https://worklynks.com](https://worklynks.com)
 
-I have two cats 😸😸, a blue Russian called Ruso (13 years old) and a Roman called Ñuño (12 years old) and they're the most friendly and lovely cats you could possibly ever met!
+I have two cats 😸😸, an European Common called Ñuño (14 years old) and a Bombay called Sirius (1 year old) and they're the most friendly and lovely cats you could possibly ever met!
+
+## Live Side Projects
+
+### [Bookwriters](https://bookwriters.app)
+
+Boost your writing process with AI. Our bookwriting app transcribes voice recordings, generates summaries, offers writing suggestions, and extracts keywords, helping authors of all levels create better stories faster.
+
+### [Worklynks](https://worklynks.com)
+
+Discover the perfect job or post your company's openings on our intuitive job board. Whether you're a company seeking talent or a job seeker looking for the best opportunities, Worklynks connects you with the right match quickly and efficiently.
 
 ## Published Courses
 
