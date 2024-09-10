@@ -22,13 +22,19 @@ I have two cats 😸😸, an European Common called Ñuño (14 years old) and a 
 
 ## Live Side Projects
 
-### [Bookwriters](https://bookwriters.app)
+### [📚 Bookwriters](https://bookwriters.app)
 
 Boost your writing process with AI. Our bookwriting app transcribes voice recordings, generates summaries, offers writing suggestions, and extracts keywords, helping authors of all levels create better stories faster.
 
-### [Worklynks](https://worklynks.com)
+### [🔗 Worklynks](https://worklynks.com)
 
 Discover the perfect job or post your company's openings on our intuitive job board. Whether you're a company seeking talent or a job seeker looking for the best opportunities, Worklynks connects you with the right match quickly and efficiently.
+
+### [📦 Cratebox.io - A global, fast content delivery network for NPM](https://cratebox.io) - Open Source!
+
+Cratebox is a rapid and widespread content delivery network that caters to all of NPM's offerings. It enables you to promptly and effortlessly retrieve any file from any package by employing a URL.
+
+Using the pattern `cratebox.io/:package@:version/:file` you can retrieve and serve any file that you want from any public package within the NPM registry
 
 ## Published Courses
 
@@ -62,11 +68,3 @@ In this book, you will learn everything you need to know about JavaScript, inclu
 By the end of this book, you will have a solid foundation in JavaScript programming, and you will be ready to tackle more advanced topics and projects. Whether you are interested in freelancing, working for a company, or pursuing a career in web development, this book will provide you with the skills and confidence you need to succeed. So, get ready to learn, code, and launch your JavaScript career!
 
 [Get the Digital version](https://alexcasillas.gumroad.com/l/javascript-cooking-book) | [Get the Print version](https://www.amazon.com/Alex-Casillas/dp/B0BW2GGHHT)
-
-## Open Source Projects
-
-### [📦 Cratebox.io - A global, fast content delivery network for NPM](https://cratebox.io)
-
-Cratebox is a rapid and widespread content delivery network that caters to all of NPM's offerings. It enables you to promptly and effortlessly retrieve any file from any package by employing a URL.
-
-Using the pattern `cratebox.io/:package@:version/:file` you can retrieve and serve any file that you want from any public package within the NPM registry
