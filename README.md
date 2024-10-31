@@ -15,12 +15,17 @@ Here are some social media links that you might be interested in taking a look a
 - Personal website → [www.alexvcasillas.com](https://www.alexvcasillas.com)
 - The JavaScript Cooking Book → [www.javascriptcookingbook.com](https://www.javascriptcookingbook.com)
 - Cratebox → [https://cratebox.io](https://cratebox.io)
+- Ziip.it → [https://ziip.it](https://ziip.it)
 - Bookwriters → [https://boookwriters.app](https://bookwriters.app)
 - Worklynks → [https://worklynks.com](https://worklynks.com)
 
 I have two cats 😸😸, an European Common called Ñuño (14 years old) and a Bombay called Sirius (1 year old) and they're the most friendly and lovely cats you could possibly ever met!
 
 ## Live Side Projects
+
+### [📁 Ziip.it](https://ziip.it)
+
+Share files easily with Ziip.it. Free uploads, instant short links—no signup needed. Simple, fast, and secure file sharing.
 
 ### [📚 Bookwriters](https://bookwriters.app)
 
