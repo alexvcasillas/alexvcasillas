@@ -6,7 +6,7 @@
 
 <br />
 
-Principal Software Engineer Based in Spain 🇪🇸, working at Toptal, highly motivated, self-taught technology developer who's been playing around with computers since my early days.
+Principal Software Engineer Based in Spain 🇪🇸, building software, highly motivated, self-taught technology developer who's been playing around with computers since my early days.
 
 Here are some social media links that you might be interested in taking a look at!
 
