@@ -64,6 +64,16 @@ By the end of this course, you will have the knowledge and skills that it takes 
 
 ## Published Books
 
+### [The JavaScript Cooking Book: Node.js](https://www.amazon.es/JavaScript-Cooking-Book-TypeScript-developer/dp/B0CB2FTXSH)
+
+This book is designed to help you acquire the essential skills and knowledge you need to jumpstart your career as a Node.js developer.
+
+Welcome to the exciting world of Node.js! This powerful JavaScript runtime has become a popular choice for developing server-side applications and command-line tools. With its event-driven, non-blocking I/O model, Node.js allows for efficient and scalable application development.
+
+In this book, you will learn everything you need to know about Node.js, including its most important and powerful features, and more. This book will provide you with everything that you might need, to start writing applications that you can grow into even more complex applications
+
+By the end of this book, you will have a solid understanding of NodeJS, and be able to apply this knowledge to build your own server-side applications or command-line tools. Whether you are building a simple API or a complex microservices architecture, Node.js is a powerful tool that can help you achieve your goals. So, let's dive in and start learning!
+
 ### [The JavaScript Cooking Book](https://javascriptcookingbook.com)
 
 This book is designed to help you acquire the essential skills and knowledge you need to jumpstart your career as a JavaScript developer. Whether you are a complete beginner or have some experience with coding, this book will take you on a journey through the basics of JavaScript and its key features.
