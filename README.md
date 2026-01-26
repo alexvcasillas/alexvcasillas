@@ -13,7 +13,7 @@
 - Personal Website → [alexvcasillas.com](https://www.alexvcasillas.com)  
 - JavaScript Cooking Book → [javascriptcookingbook.com](https://www.javascriptcookingbook.com)
 
-I have two cats 😸😸 — an European Common called **Ñuño** (14) and a Bombay called **Sirius** (1). They supervise most of my coding sessions.
+I have a 😸 cat —a Bombay called **Sirius** (2). He supervises most of my coding sessions.
 
 ---
 
