@@ -4,7 +4,7 @@
   <img src="https://github.com/alexvcasillas/alexvcasillas/blob/main/assets/ruso-the-cat.png" alt="Alex Casillas' Cat named Ruso">
 </p>
 
-**Principal Software Engineer based in Spain 🇪🇸** — building software products, tools, and open-source. Self-taught developer with a strong product mindset and a passion for scalable systems, performance, and developer experience.
+**Core Tiptap Engineer based in Spain 🇪🇸** — building software products, tools, and open-source. Self-taught developer with a strong product mindset and a passion for scalable systems, performance, and developer experience.
 
 ### Find me online
 
