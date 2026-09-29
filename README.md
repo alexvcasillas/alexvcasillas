@@ -31,7 +31,7 @@ Tiptap powers modern text editing experiences across SaaS products, documentatio
 
 ## 🚀 Live Products & Tools
 
-### 📋 [SupaClip – The missing macOS clipboard manager](https://supaclip.app)
+### 📋 [SupaClip – The missing macOS clipboard manager](https://supaclip.app)
 
 Everything you've copied. One shortcut away.
 SupaClip is a clipboard manager for Mac. Press ⌘⇧V, type a few letters, press return. It's pasted.
