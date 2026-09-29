@@ -31,6 +31,23 @@ Tiptap powers modern text editing experiences across SaaS products, documentatio
 
 ## 🚀 Live Products & Tools
 
+### 📋 [SupaClip – The missing macOS clipboard manager](https://supaclip.app)
+
+Everything you've copied. One shortcut away.
+SupaClip is a clipboard manager for Mac. Press ⌘⇧V, type a few letters, press return. It's pasted.
+
+Built to stay out of your way.
+The panel opens over any app, even in full screen, and never takes focus. When you press return, you're back where you were.
+
+- Find it by typing.
+- Paste with one key.
+- Pin what you reuse.
+- See before you paste.
+- Keep it all.
+- Private by design.
+
+Buy it once. Keep it forever.
+
 ### 📊 [Pulsora — Anonymous Analytics](https://pulsora.co)
 
 A **privacy-first, cookie-less web analytics platform** built as a lightweight alternative to Google Analytics.
